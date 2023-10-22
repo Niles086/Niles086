@@ -1,4 +1,4 @@
-[header img](https://media.licdn.com/dms/image/D5616AQG7zZZ75HhDCw/profile-displaybackgroundimage-shrink_350_1400/0/1697226189257?e=1703721600&v=beta&t=A3vTcRdIbp32q-eGo7BDllQeV_x8KpR3nW0DHhftFkw)
+[header img](linkedin_banner.jpg)
 
 ## < Hello, Hello, Hello World! />
 
