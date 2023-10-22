@@ -1,4 +1,4 @@
-[header img](img/linkedin_banner.jpg)
+[header img](README.md/linkedin_banner.jpg)
 
 ## < Hello, Hello, Hello World! />
 
